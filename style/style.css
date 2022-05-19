@@ -5,15 +5,15 @@
 
 @font-face {
     font-family: abel;
-    src: url(/font/Raleway/Raleway-VariableFont_wght.ttf);
+    src: url(font/Raleway/Raleway-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: monsterrat;
-    src: url(/font/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(font/Montserrat/Montserrat-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: monsterrat_italic;
-    src: url(/font/Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+    src: url(font/Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
 }
 body{
     /* overflow-x: hidden; */
